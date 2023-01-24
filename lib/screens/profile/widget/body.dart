@@ -61,11 +61,11 @@ class _BodyProfileState extends State<BodyProfile> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Edward Larry",
+                "Deven",
                 style: TextStyle(fontSize: 22, fontWeight: FontWeight.w800),
               ),
               Text(
-                "Junior Developer",
+                "Flutter Developer",
                 style: TextStyle(
                     fontSize: 17,
                     fontWeight: FontWeight.w500,
