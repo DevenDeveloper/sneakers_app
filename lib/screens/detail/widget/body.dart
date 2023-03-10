@@ -328,7 +328,7 @@ class _BodyDeState extends State<BodyDe> {
             child: Container(),
           ),
           Container(
-            width: width / 9,
+            width: width / 6,
             child: TextButton(
               onPressed: () {
                 setState(() {
@@ -347,7 +347,7 @@ class _BodyDeState extends State<BodyDe> {
             ),
           ),
           Container(
-            width: width / 7,
+            width: width / 6,
             child: TextButton(
               onPressed: () {
                 setState(() {
