@@ -14,7 +14,7 @@ Users having different kind of options in profile like, Personal details, My sta
   * Cart with required functionality
   * Profile having some options like - Personal details, My status, Payments, Achievements, Privacy and Logout
   
-# Tool used
+# Tools used
   * Android Studio Electric Eel | 2022.1.1
   * Flutter 3.3.10 • channel stable • https://github.com/flutter/flutter.git
   * Dart 2.18.6 • DevTools 2.15.0
