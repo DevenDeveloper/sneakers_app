@@ -8,7 +8,7 @@ Sneaker having Simple and modern home page with different category and features 
 User can add any sneaker to cart as well as add to wishlist.
 Users having different kind of options in profile like, Personal details, My status, Payments, Achievements, Privacy and Logout.
 
-# Fatures
+# Features
   * Modern intuitive Home page with Sneakers
   * Sneaker's detail screen which holds products gallery, title, short description, price, brand name and size. 
   * Cart with required functionality
